@@ -5,9 +5,9 @@ import Image from "next/image";
 const Nav = () => {
   return (
     <div className="w-full items-center">
-      <ul className="flex justify-around py-4">
+      <ul className="flex justify-around py-4 items-center">
         <Link href="/">
-          <Image src="/timely.svg" alt="timelyLogo" width={16} height={16} />
+          <Image src="/Timely.png" alt="timelyLogo" width={84} height={84} />
         </Link>
         <div className="flex justify-around gap-4 items-center text-base font-medium">
           <li>

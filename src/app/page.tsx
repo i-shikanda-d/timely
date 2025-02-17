@@ -11,9 +11,9 @@ export default function Home() {
         <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
           <Link href="/">
             <Image
-              src="/timely.svg"
+              src="/Timely.png"
               alt="timelyLogo"
-              width={180}
+              width={240}
               height={38}
               priority
             />
@@ -48,7 +48,7 @@ export default function Home() {
               <Image
                 className="dark:invert"
                 src="/incognito.svg"
-                alt="Vercel logomark"
+                alt=""
                 width={20}
                 height={20}
               />

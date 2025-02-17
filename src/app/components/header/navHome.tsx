@@ -5,10 +5,10 @@ import Image from "next/image";
 const NavHome = () => {
   return (
     <div className="items-center w-full py-4">
-      <ul className="flex justify-around">
+      <ul className="flex justify-around items-center">
         <li>
           <Link href="/">
-            <Image src="/timely.svg" alt="timelyLogo" width={16} height={16} />
+            <Image src="/Timely.png" alt="timelyLogo" width={84} height={84} />
           </Link>
         </li>
         <li>
