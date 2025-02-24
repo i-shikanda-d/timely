@@ -11,6 +11,9 @@ const TimeCard = () => {
           <p>
             Description goes here
           </p>
+          <p>
+            Date
+          </p>
         </div>
       </div>
     </>
