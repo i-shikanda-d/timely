@@ -52,6 +52,9 @@ const Footer = () => {
         </a>
         
       </footer>
+      <div className='text-center py-10'>
+        <p>© 2025 Timely</p> 
+      </div>
     </div>
   )
 }

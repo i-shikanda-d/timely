@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Anonymous Messages",
+  title: "Anonymous Messages | Timely",
   description: "Anonymous Messages for your time.ly everything",
 };
 
